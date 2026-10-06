@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey, I'm Mica!
 
-<!--
-**parfine2007/parfine2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Developer from Rwanda 🇷🇼** who enjoys turning ideas into real, useful products.
 
-Here are some ideas to get you started:
+I’m especially interested in **Backend Development, AI, Databases, and Software Architecture**. I like understanding not only *how to write code*, but also **why a system is designed the way it is and how all the pieces work together**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm currently building projects, exploring new technologies, and continuously improving my skills through hands-on development.
+
+💡 **What I enjoy:**
+
+* Building backend systems and APIs
+* Designing databases and application architecture
+* Working with JavaScript, TypeScript, Next.js, Node.js and Python
+* Exploring AI, LLMs, and intelligent applications
+* Learning how real-world software products are planned, built, and improved
+* Turning problems and ideas into practical solutions
+
+> **I don't just want to learn how to code — I want to learn how to build.**
+
+🌱 Always learning. Always building.
